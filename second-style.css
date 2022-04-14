@@ -1,0 +1,34 @@
+html, body{
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.border-div{
+    background-color: deepskyblue;
+
+    width: 500px;
+    height: 300px;
+    margin: 50px;
+color: deeppink;
+/* border-style: solid;
+border-color: darkorange;
+border-width: 10px; */
+
+border: 5px solid gold;
+border-radius: 50px;
+}
+
+.background-div{
+    width: 500px;
+    height: 300px;
+    margin: 50px;
+    /* background-color: blueviolet;
+    background-image: url(./assets/tile_background.png); */
+    /* background-repeat: repeat-y; */
+    background-image: url(./assets/gallery1.jpg);
+    background-size: cover;
+    background-position: center center;
+
+    
+}

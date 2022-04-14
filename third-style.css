@@ -1,0 +1,36 @@
+.div1{
+background-color: aqua;
+position: fixed;
+height: 300px;
+}
+
+.div2{
+background-color: darkgreen;
+height: 300px;
+}
+
+.div3{
+background-color: chartreuse;
+height: 300px;
+}
+
+.div4{
+background-color: rgb(0, 0, 0); 
+color: white;
+}
+
+.div5{
+    background-color: crimson;
+    height: 300px;
+    height: 300px;
+    position: absolute
+    }
+
+  .div6{
+    background-color: rgb(155, 88, 103);
+    height: 100px;
+    position: fixed;
+    }
+
+
+
